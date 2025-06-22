@@ -27,7 +27,7 @@ Make sure you have:
 
 #### 1️⃣ Clone the repository:
 ```
-git clone https://github.com/yourusername/automatic-license-plate-detection.git
+git clone https://github.com/nishanttG/automatic-license-plate-detection.git
 ```
 #### 2️⃣ Navigate to the project directory and install dependencies:
 ```
