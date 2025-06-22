@@ -26,12 +26,20 @@ Make sure you have:
 ### 📥 Installation
 
 #### 1️⃣ Clone the repository:
-git clone https://github.com/yourusername/automatic-license-plate-detection.git```
+```
+git clone https://github.com/yourusername/automatic-license-plate-detection.git
+```
 #### 2️⃣ Navigate to the project directory and install dependencies:
-cd automatic-license-plate-detection```
-```pip install -r requirements.txt```
+```
+cd automatic-license-plate-detection
+```
+```
+pip install -r requirements.txt
+```
 #### 3️⃣ Run the Streamlit app:
-```streamlit run app.py```
+```
+streamlit run app.py
+```
 #### 4️⃣ Upload your images or videos through the browser interface.
 #### 5️⃣ View detection results in real-time and download them if needed.
 
